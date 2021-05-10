@@ -1,9 +1,3 @@
-<style>
-    .div_color {
-        background-color: #fff;
-    }
-</style>
-
 ## Contributors
 <br >
 - Arianna-Cicero
