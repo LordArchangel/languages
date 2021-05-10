@@ -1,16 +1,17 @@
 ## Contributors
 <br >
 
-- DiogoMarques2003
+- >DiogoMarques2003
 
-[<img align="left" alt="DiogoMarques2003 | discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />][DiogoMarques2003 | discord]
+>>[<img align="left" alt="DiogoMarques2003 | discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />][DiogoMarques2003 | discord]
 [<img align="left" alt="DiogoMarques2003 | github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />][DiogoMarques2003 | github]
 
 <br />
+<br />
 
-- Arianna-Cicero
+- >Arianna-Cicero
 
-[<img align="left" alt="Arianna-Cicero | discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />][Arianna-Cicero | discord]
+>>[<img align="left" alt="Arianna-Cicero | discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />][Arianna-Cicero | discord]
 [<img align="left" alt="Arianna-Cicero | github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />][Arianna-Cicero | github]
 
 
