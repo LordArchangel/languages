@@ -1,7 +1,7 @@
 {
     "footer": "Tortuguita • © All rights reserved.",
     "mention": {
-        "title": "<:tortuguita:784844947869138944> {{user}} called me?",
+        "title": "<:tortuguita:784844947869138944> {{user}} Called me?",
         "owners": {
             "title": "<:EARLY_VERIFIED_BOT_DEVELOPER:829071976487321611>Creators/<:DISCORD_EMPLOYEE:829071977654124574>Owners:",
             "desc": "[{{owner}}](https://discord.com/users/{{id_owner}}), [{{owner1}}](https://discord.com/users/{{id_owner1}}), [{{owner2}}](https://discord.com/users/{{id_owner2}}), [{{owner3}}](https://discord.com/users/{{id_owner3}}) and [{{owner4}}](https://discord.com/users/{{id_owner4}})"
@@ -16,6 +16,10 @@
         "add_bot": {
             "title": "Add me to your server",
             "desc": "[Click here](https://discord.com/oauth2/authorize?client_id=${client.user.id}&scope=bot&permissions=8)"
+        },
+        "change_lang": {
+            "title": ":information_source: To change the bot language use the command",
+            "desc": "{{prefix}}language"
         },
         "support_server": {
             "title": "Support server",

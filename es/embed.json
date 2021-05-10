@@ -17,6 +17,10 @@
             "title": "Add me to your server",
             "desc": "[Click here](https://discord.com/oauth2/authorize?client_id=${client.user.id}&scope=bot&permissions=8)"
         },
+        "change_lang": {
+            "title": ":information_source: To change the bot language use the command",
+            "desc": "{{prefix}}language"
+        },
         "support_server": {
             "title": "Support server",
             "desc": "[Click here](https://discord.gg/g3ZYKk5C7A)"
