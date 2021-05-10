@@ -4,7 +4,7 @@
         "title": "<:tortuguita:784844947869138944> {{user}} called me?",
         "owners": {
             "title": "<:EARLY_VERIFIED_BOT_DEVELOPER:829071976487321611>Creators/<:DISCORD_EMPLOYEE:829071977654124574>Owners:",
-            "desc": "[{{owner1}}](https://discord.com/users/{{id_owner1}}), [{{owner2}}](https://discord.com/users/{{id_owner2}}), [{{owner3}}](https://discord.com/users/{{id_owner3}}) and [{{owner4}}](https://discord.com/users/{{id_owner4}})"
+            "desc": "[{{owner}}](https://discord.com/users/{{id_owner}}), [{{owner1}}](https://discord.com/users/{{id_owner1}}), [{{owner2}}](https://discord.com/users/{{id_owner2}}), [{{owner3}}](https://discord.com/users/{{id_owner3}}) and [{{owner4}}](https://discord.com/users/{{id_owner4}})"
         },
         "main_command": {
             "title": "<:file:769248655001387058> Main command:",

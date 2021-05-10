@@ -4,7 +4,7 @@
         "title": "<:tortuguita:784844947869138944> {{user}} Chamou-me?",
         "owners": {
             "title": "<:EARLY_VERIFIED_BOT_DEVELOPER:829071976487321611>Criadores/<:DISCORD_EMPLOYEE:829071977654124574>Donos:",
-            "desc": "[{{owner1}}](https://discord.com/users/{{id_owner1}}), [{{owner2}}](https://discord.com/users/{{id_owner2}}), [{{owner3}}](https://discord.com/users/{{id_owner3}}) e [{{owner4}}](https://discord.com/users/{{id_owner4}})"
+            "desc": "[{{owner}}](https://discord.com/users/{{id_owner}}), [{{owner1}}](https://discord.com/users/{{id_owner1}}), [{{owner2}}](https://discord.com/users/{{id_owner2}}), [{{owner3}}](https://discord.com/users/{{id_owner3}}) e [{{owner4}}](https://discord.com/users/{{id_owner4}})"
         },
         "main_command": {
             "title": "<:file:769248655001387058> Comando principal:",
