@@ -1,0 +1,68 @@
+{
+    "footer": "Tortuguita • © Todos os direitos reservados.",
+    "mention": {
+        "title": "<:tortuguita:784844947869138944> {{user}} Chamou-me?",
+        "owners": {
+            "title": "<:EARLY_VERIFIED_BOT_DEVELOPER:829071976487321611>Criadores/<:DISCORD_EMPLOYEE:829071977654124574>Donos:",
+            "desc": "[{{owner1}}](https://discord.com/users/{{id_owner1}}), [{{owner2}}](https://discord.com/users/{{id_owner2}}), [{{owner3}}](https://discord.com/users/{{id_owner3}}) e [{{owner4}}](https://discord.com/users/{{id_owner4}})"
+        },
+        "main_command": {
+            "title": "<:file:769248655001387058> Comando principal:",
+            "desc": "{{prefix}}ajuda"
+        },
+        "created_at": "<:mais:769248654920777818> Eu fui criado em:",
+        "prefix": ":information_source: O prefixo neste servidor é:",
+        "total_commands": "<:review:769248654795341825> Total de comandos do bot:",
+        "add_bot": {
+            "title": "Adicione-me ao seu servidor",
+            "desc": "[Clique aqui](https://discord.com/oauth2/authorize?client_id=${client.user.id}&scope=bot&permissions=8)"
+        },
+        "support_server": {
+            "title": "Servidor de support",
+            "desc": "[Clique aqui](https://discord.gg/g3ZYKk5C7A)"
+        },
+        "help_translate": {
+            "title": "Se quiseres ajudar a me adicionar mais linguas",
+            "desc": "[Clique aqui](https://github.com/TortuguitaBot/languages)"
+        }
+    },
+    "cooldown": {
+        "title": "{{emoji_error}} Por favor, aguarde {{timeLeft}} segundo(s) antes de reutilizar o comando `{{command}}`.",
+        "why": {
+            "title": "Why a delay?",
+            "desc": "Because that's the only way how I can prevent you from abusing(spamming) me!"
+        }
+    },
+    "bot_chat": {
+        "title": "{{emoji_error}} Erro | Não estás num chat do bot!",
+        "desc": "Há uma configuração de chat do bot neste SERVIDOR! Tente usar os comandos do bot aqui:\n> {{bot_chats}}"
+    },
+    "perm_need": {
+        "title": "{{emoji_error}} Erro | Tu não tens permissão para usar este comando!",
+        "desc": "Tu precisas destas permissões: `{{perm}}`"
+    },
+    "djrole": {
+        "title": "{{emoji_error}} Erro | Tu não tens permissão para usar este comando!",
+        "desc": "Você precisa ter um destes cargos:\n{{roles}}\n\nOu seja o solicitante ({{requester}}) da música atual!"
+    },
+    "togglerequestonly": {
+        "title": "{{emoji_error}} Erro | Tu não tens permissão para executar este comando aqui!",
+        "desct": "Por favor, execute-o em: {{channel}} | Para poder usar os comandos de música em qualquer lugar use: `{{prefix}}togglerequestonly`"
+    },
+    "bot_perm_need": {
+        "title": "{{emoji_error}} Erro | Eu não tenho permissões suficientes!",
+        "desc": "Por favor, de-me apenas a permissão `ADMINISTRADOR`, porque eu preciso apagar mensagens, criar canais e executar todos os comandos de administração.\n Se não me quiseres dar, essas são as permissões exatas que eu preciso: \n> `{{required_perms}}`"
+    },
+    "channel": "{{emoji_error}} Erro | Tu precisas de entrar num canal de voz.",
+    "player": "{{emoji_error}} Erro | Não estou a tocar nada aqui",
+    "mechannel": "{{emoji_error}} Erro | Eu não estou conectado a um canal",
+    "previoussong": "{{emoji_error}} Erro | Ainda não há nenhuma música anterior!",
+    "notsamechannel": {
+        "title": "{{emoji_error}} Erro | Tu precisas de estar no mesmo canal de voz que eu para usar este comando!",
+        "desc": "Canal: {{channel}}"
+    },
+    "error": {
+        "title": "{{emoji_error}} Erro | Ocorreu algum erro",
+        "desc": "```Ocorreu um erro. Por favor tente novamente mais tarde, ou contacta os desenvolvedores```"
+    }
+}
