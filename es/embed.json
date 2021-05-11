@@ -1,37 +1,37 @@
 {
-    "footer": "Tortuguita • © All rights reserved.",
+    "footer": "Tortuguita • © Todos los derechos reservados.",
     "mention": {
-        "title": "<:tortuguita:784844947869138944> {{user}} called me?",
+        "title": "<:tortuguita:784844947869138944> {{user}} Me llamaste?",
         "owners": {
-            "title": "<:EARLY_VERIFIED_BOT_DEVELOPER:829071976487321611>Creators/<:DISCORD_EMPLOYEE:829071977654124574>Owners:",
-            "desc": "[{{owner}}](https://discord.com/users/{{id_owner}}), [{{owner1}}](https://discord.com/users/{{id_owner1}}), [{{owner2}}](https://discord.com/users/{{id_owner2}}), [{{owner3}}](https://discord.com/users/{{id_owner3}}) and [{{owner4}}](https://discord.com/users/{{id_owner4}})"
+            "title": "<:EARLY_VERIFIED_BOT_DEVELOPER:829071976487321611>Creadores/<:DISCORD_EMPLOYEE:829071977654124574>Dueños:",
+            "desc": "[{{owner}}](https://discord.com/users/{{id_owner}}), [{{owner1}}](https://discord.com/users/{{id_owner1}}), [{{owner2}}](https://discord.com/users/{{id_owner2}}), [{{owner3}}](https://discord.com/users/{{id_owner3}}) y [{{owner4}}](https://discord.com/users/{{id_owner4}})"
         },
         "main_command": {
-            "title": "<:file:769248655001387058> Main command:",
+            "title": "<:file:769248655001387058> Comando principal:",
             "desc": "{{prefix}}help"
         },
-        "created_at": "<:mais:769248654920777818> I was created in:",
-        "prefix": ":information_source: The prefix on this server is:",
-        "total_commands": "<:review:769248654795341825> Total bot commands:",
+        "created_at": "<:mais:769248654920777818> Fui creado en:",
+        "prefix": ":information_source: El prefixo en este servidor es:",
+        "total_commands": "<:review:769248654795341825> Comandos totales del bot:",
         "add_bot": {
-            "title": "Add me to your server",
-            "desc": "[Click here](https://discord.com/oauth2/authorize?client_id=${client.user.id}&scope=bot&permissions=8)"
+            "title": "Adicioname a tu servidor: ",
+            "desc": "[Click aquí](https://discord.com/oauth2/authorize?client_id=${client.user.id}&scope=bot&permissions=8)"
         },
         "change_lang": {
-            "title": ":information_source: To change the bot language use the command",
+            "title": ":information_source: Para cambiar el idioma del bot utiliza este comando: ",
             "desc": "{{prefix}}language"
         },
         "support_server": {
-            "title": "Support server",
-            "desc": "[Click here](https://discord.gg/g3ZYKk5C7A)"
+            "title": "Soporte del servidor",
+            "desc": "[Click aquí](https://discord.gg/g3ZYKk5C7A)"
         },
         "help_translate": {
-            "title": "If you want to help me add more languages",
-            "desc": "[Click here](https://github.com/TortuguitaBot/languages)"
+            "title": "Si quieres ayudarme a adicionar más idiomas ",
+            "desc": "[Click aquí](https://github.com/TortuguitaBot/languages)"
         }
     },
     "cooldown": {
-        "title": "{{emoji_error}} Please wait {{timeLeft}} more second(s) before reusing the {{command}} command.",
+        "title": "{{emoji_error}} Por favor espere {{timeLeft}} segundo(s) antes de utilizar el comando {{command}}",
         "why": {
             "title": "Why a delay?",
             "desc": "Because that's the only way how I can prevent you from abusing(spamming) me!"

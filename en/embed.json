@@ -18,11 +18,11 @@
             "desc": "[Click here](https://discord.com/oauth2/authorize?client_id=${client.user.id}&scope=bot&permissions=8)"
         },
         "change_lang": {
-            "title": ":information_source: To change the bot language use the command",
+            "title": ":information_source: To change the bot's language use the command",
             "desc": "{{prefix}}language"
         },
         "support_server": {
-            "title": "Support server",
+            "title": "Server's support",
             "desc": "[Click here](https://discord.gg/g3ZYKk5C7A)"
         },
         "help_translate": {
@@ -31,15 +31,15 @@
         }
     },
     "cooldown": {
-        "title": "{{emoji_error}} Please wait {{timeLeft}} more second(s) before reusing the {{command}} command.",
+        "title": "{{emoji_error}} Please wait {{timeLeft}} second(s) before reusing the {{command}} command.",
         "why": {
-            "title": "Why a delay?",
-            "desc": "Because that's the only way how I can prevent you from abusing(spamming) me!"
+            "title": "Why the delay?",
+            "desc": "Because that's the only way I can prevent you from abusing(spamming) me!"
         }
     },
     "bot_chat": {
         "title": "{{emoji_error}} Error | Not in the Bot Chat!",
-        "desc": "There is a Bot chat setup in this GUILD! Try using the Bot Commands here:\n> {{bot_chats}}"
+        "desc": "There is a Bot chat setup in this GUILD! Try using the Bot's Commands here:\n> {{bot_chats}}"
     },
     "perm_need": {
         "title": "{{emoji_error}} Error | You are not allowed to run this command!",
@@ -47,15 +47,15 @@
     },
     "djrole": {
         "title": "{{emoji_error}} Error | You are not allowed to run this command!",
-        "desc": "You need to have one of those Roles:\n{{roles}}\n\nOr be the Requester ({{requester}}) of the current Track!"
+        "desc": "You need to have one of these Roles:\n{{roles}}\n\nOr be the Requester ({{requester}}) of the current Track!"
     },
     "togglerequestonly": {
         "title": "{{emoji_error}} Error | You are not allowed to run this Command here!",
-        "desct": "Please run it in: {{channel}} | To enable that you can use the Command anywhere type: `{{prefix}}togglerequestonly`"
+        "desct": "Please run it in: {{channel}} | To enable the use anywhere, you can use the Command: `{{prefix}}togglerequestonly`"
     },
     "bot_perm_need": {
         "title": "{{emoji_error}} Error | I don't have enough Permissions!",
-        "desc": "Please give me just `ADMINISTRATOR`, because I need it to delete Messages, Create Channel and execute all Admin Commands.\n If you don't want to give me them, then those are the exact Permissions which I need: \n> `{{required_perms}}`"
+        "desc": "Please give me just `ADMINISTRATOR`, because I need it to delete Messages, Create a Channel and execute all Admin Commands.\n If you don't want to give me them, then those are the exact Permissions which I need: \n> `{{required_perms}}`"
     },
     "channel": "{{emoji_error}} Error | You need to join a voice channel.",
     "player": "{{emoji_error}} Error | There is nothing playing",
@@ -67,6 +67,6 @@
     },
     "error": {
         "title": "{{emoji_error}} ERROR | An error occurred",
-        "desc": "```An error occurred, please try again later, or contact the developers```"
+        "desc": "```An error occurred, please try again later or contact the developers```"
     }
 }
