@@ -1,72 +1,72 @@
 {
-    "footer": "Tortuguita • © All rights reserved.",
+    "footer": "Tortuguita • © Tutti i diritti riservati.",
     "mention": {
-        "title": "<:tortuguita:784844947869138944> {{user}} called me?",
+        "title": "<:tortuguita:784844947869138944> {{user}} Mi ha chiamato?",
         "owners": {
-            "title": "<:EARLY_VERIFIED_BOT_DEVELOPER:829071976487321611>Creators/<:DISCORD_EMPLOYEE:829071977654124574>Owners:",
-            "desc": "[{{owner}}](https://discord.com/users/{{id_owner}}), [{{owner1}}](https://discord.com/users/{{id_owner1}}), [{{owner2}}](https://discord.com/users/{{id_owner2}}), [{{owner3}}](https://discord.com/users/{{id_owner3}}) and [{{owner4}}](https://discord.com/users/{{id_owner4}})"
+            "title": "<:EARLY_VERIFIED_BOT_DEVELOPER:829071976487321611>Creatori/<:DISCORD_EMPLOYEE:829071977654124574>Proprietari:",
+            "desc": "[{{owner}}](https://discord.com/users/{{id_owner}}), [{{owner1}}](https://discord.com/users/{{id_owner1}}), [{{owner2}}](https://discord.com/users/{{id_owner2}}), [{{owner3}}](https://discord.com/users/{{id_owner3}}) e [{{owner4}}](https://discord.com/users/{{id_owner4}})"
         },
         "main_command": {
-            "title": "<:file:769248655001387058> Main command:",
+            "title": "<:file:769248655001387058> Comando principale:",
             "desc": "{{prefix}}help"
         },
-        "created_at": "<:mais:769248654920777818> I was created in:",
-        "prefix": ":information_source: The prefix on this server is:",
-        "total_commands": "<:review:769248654795341825> Total bot commands:",
+        "created_at": "<:mais:769248654920777818> Sono stato creato nel:",
+        "prefix": ":information_source: Il prefisso su questo server è:",
+        "total_commands": "<:review:769248654795341825> Comandi totali di bot:",
         "add_bot": {
-            "title": "Add me to your server",
-            "desc": "[Click here](https://discord.com/oauth2/authorize?client_id=${client.user.id}&scope=bot&permissions=8)"
+            "title": "Aggiungimi al tuo server",
+            "desc": "[Clicca qui](https://discord.com/oauth2/authorize?client_id=${client.user.id}&scope=bot&permissions=8)"
         },
         "change_lang": {
-            "title": ":information_source: To change the bot language use the command",
+            "title": ":information_source: Per cambiare la lingua del bot usa il comando",
             "desc": "{{prefix}}language"
         },
         "support_server": {
-            "title": "Support server",
-            "desc": "[Click here](https://discord.gg/g3ZYKk5C7A)"
+            "title": "Supporto del server",
+            "desc": "[Clicca qui](https://discord.gg/g3ZYKk5C7A)"
         },
         "help_translate": {
-            "title": "If you want to help me add more languages",
-            "desc": "[Click here](https://github.com/TortuguitaBot/languages)"
+            "title": "Se vuoi aiutarmi ad aggiungere altre lingue",
+            "desc": "[Clicca qui](https://github.com/TortuguitaBot/languages)"
         }
     },
     "cooldown": {
-        "title": "{{emoji_error}} Please wait {{timeLeft}} more second(s) before reusing the {{command}} command.",
+        "title": "{{emoji_error}} Si prega di attendere altri {{timeLeft}} secondo(i) prima di utilizzare il comando {{command}} ",
         "why": {
-            "title": "Why a delay?",
-            "desc": "Because that's the only way how I can prevent you from abusing(spamming) me!"
+            "title": "Perché il ritardo?",
+            "desc": "Perché è l'unico modo in cui posso impedirti di abusare (spamming) di me!"
         }
     },
     "bot_chat": {
-        "title": "{{emoji_error}} Error | Not in the Bot Chat!",
-        "desc": "There is a Bot chat setup in this GUILD! Try using the Bot Commands here:\n> {{bot_chats}}"
+        "title": "{{emoji_error}} Errore | Non nella chat del bot!",
+        "desc": "C'è una configurazione di chat Bot in questa GUILD! Prova a usare i comandi del bot qui:\n> {{bot_chats}}"
     },
     "perm_need": {
-        "title": "{{emoji_error}} Error | You are not allowed to run this command!",
+        "title": "{{emoji_error}} Errore | Non ti è consentito eseguire questo comando!",
         "desc": "You need these Permissions: `{{perm}}`"
     },
     "djrole": {
-        "title": "{{emoji_error}} Error | You are not allowed to run this command!",
-        "desc": "You need to have one of those Roles:\n{{roles}}\n\nOr be the Requester ({{requester}}) of the current Track!"
+        "title": "{{emoji_error}} Errore | Non ti è consentito eseguire questo comando!",
+        "desc": "È necessario avere uno di questi ruoli:\n{{roles}}\n\nO di essere il Richiedente ({{requester}}) della track attuale!"
     },
     "togglerequestonly": {
-        "title": "{{emoji_error}} Error | You are not allowed to run this Command here!",
-        "desct": "Please run it in: {{channel}} | To enable that you can use the Command anywhere type: `{{prefix}}togglerequestonly`"
+        "title": "{{emoji_error}} Errore | Non ti è permesso eseguire questo Comando qui!",
+        "desct": "Si prega di eseguito in: {{channel}} | Per abilitare l'uso ovunque, è possibile utilizzare il comando: `{{prefix}}togglerequestonly`"
     },
     "bot_perm_need": {
-        "title": "{{emoji_error}} Error | I don't have enough Permissions!",
-        "desc": "Please give me just `ADMINISTRATOR`, because I need it to delete Messages, Create Channel and execute all Admin Commands.\n If you don't want to give me them, then those are the exact Permissions which I need: \n> `{{required_perms}}`"
+        "title": "{{emoji_error}} Errore | Non ho abbastanza autorizzazioni!",
+        "desc": "Assegnarmi le autorizzazioni di `ADMINISTRATOR`  perché ne ho bisogno per eliminare messaggi, creare canali ed eseguire tutti i comandi di admin.\n Se non vuoi dare , allora queste sono le autorizzazioni esatte di cui ho bisogno: \n> `{{required_perms}}`"
     },
-    "channel": "{{emoji_error}} Error | You need to join a voice channel.",
-    "player": "{{emoji_error}} Error | There is nothing playing",
-    "mechannel": "{{emoji_error}} Error | I am not connected to a Channel",
-    "previoussong": "{{emoji_error}} Error | There is no previous song yet!",
+    "channel": "{{emoji_error}} Errore | È necessario partecipare a un canale vocale.",
+    "player": "{{emoji_error}} Errore | Non c'è niente da giocare",
+    "mechannel": "{{emoji_error}} Errore | Non sono connesso a un Canale",
+    "previoussong": "{{emoji_error}} Errore | Non c'è ancora una canzone precedente!",
     "notsamechannel": {
-        "title": "{{emoji_error}} Error | You need to be in my voice channel to use this command!",
-        "desc": "Channel: {{channel}}"
+        "title": "{{emoji_error}} Errore | Devi essere nel mio canale vocale per usare questo comando!",
+        "desc": "Canale: {{channel}}"
     },
     "error": {
-        "title": "{{emoji_error}} ERROR | An error occurred",
-        "desc": "```An error occurred, please try again later, or contact the developers```"
+        "title": "{{emoji_error}} ERRORE | Si è verificato un errore",
+        "desc": "```Si è verificato un errore, riprovare più tardi o contattare gli sviluppatori```"
     }
 }
