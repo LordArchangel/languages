@@ -1,7 +1,7 @@
 {
     "footer": "Tortuguita • © Todos los derechos reservados.",
     "mention": {
-        "title": "<:tortuguita:784844947869138944> {{user}} Me llamaste?",
+        "title": "<:tortuguita:784844947869138944> {{user}} ¿Me llamaste?",
         "owners": {
             "title": "<:EARLY_VERIFIED_BOT_DEVELOPER:829071976487321611>Creadores/<:DISCORD_EMPLOYEE:829071977654124574>Dueños:",
             "desc": "[{{owner}}](https://discord.com/users/{{id_owner}}), [{{owner1}}](https://discord.com/users/{{id_owner1}}), [{{owner2}}](https://discord.com/users/{{id_owner2}}), [{{owner3}}](https://discord.com/users/{{id_owner3}}) y [{{owner4}}](https://discord.com/users/{{id_owner4}})"
@@ -33,40 +33,40 @@
     "cooldown": {
         "title": "{{emoji_error}} Por favor espere {{timeLeft}} segundo(s) antes de utilizar el comando {{command}}",
         "why": {
-            "title": "Why a delay?",
-            "desc": "Because that's the only way how I can prevent you from abusing(spamming) me!"
+            "title": "¿Por qué la espera?",
+            "desc": "Porque es la única manera en la que puedo prevenir que abuses de mi (spam)!"
         }
     },
     "bot_chat": {
-        "title": "{{emoji_error}} Error | Not in the Bot Chat!",
-        "desc": "There is a Bot chat setup in this GUILD! Try using the Bot Commands here:\n> {{bot_chats}}"
+        "title": "{{emoji_error}} Error | ¡No en el chat del Bot!",
+        "desc": "¡Hay un chat del Bot configurado para esta GUILD! Intenta utilizar los comandos del bot aqui:\n> {{bot_chats}}"
     },
     "perm_need": {
-        "title": "{{emoji_error}} Error | You are not allowed to run this command!",
-        "desc": "You need these Permissions: `{{perm}}`"
+        "title": "{{emoji_error}} Error | ¡No tienes permitido utilizar este comando!",
+        "desc": "Necesitas estas permisiones: `{{perm}}`"
     },
     "djrole": {
-        "title": "{{emoji_error}} Error | You are not allowed to run this command!",
-        "desc": "You need to have one of those Roles:\n{{roles}}\n\nOr be the Requester ({{requester}}) of the current Track!"
+        "title": "{{emoji_error}} Error | ¡No tienes permitido utilizar este comando!",
+        "desc": "Necesitas tener uno de estos roles:\n{{roles}}\n\nO ser el solicitante ({{requester}}) de este track(pista) actual!"
     },
     "togglerequestonly": {
-        "title": "{{emoji_error}} Error | You are not allowed to run this Command here!",
-        "desct": "Please run it in: {{channel}} | To enable that you can use the Command anywhere type: `{{prefix}}togglerequestonly`"
+        "title": "{{emoji_error}} Error | ¡No tienes permitido utilizar este comando aqui!",
+        "desct": "Por favor correlo/utilizalo en: {{channel}} | Para activar en uso de los comandos en donde sea, escribe: `{{prefix}}togglerequestonly`"
     },
     "bot_perm_need": {
-        "title": "{{emoji_error}} Error | I don't have enough Permissions!",
-        "desc": "Please give me just `ADMINISTRATOR`, because I need it to delete Messages, Create Channel and execute all Admin Commands.\n If you don't want to give me them, then those are the exact Permissions which I need: \n> `{{required_perms}}`"
+        "title": "{{emoji_error}} Error | ¡No tengo permisiones suficientes!",
+        "desc": "Por favor dame la permisión de `ADMINISTRATOR` porque lo necesito para eliminar mensajes, crear canales and ejecutar todos los comando de Admin.\n Si no me los quieres dar, entonces estas son las permisiones exactas que necesito para funcionar: \n> `{{required_perms}}`"
     },
-    "channel": "{{emoji_error}} Error | You need to join a voice channel.",
-    "player": "{{emoji_error}} Error | There is nothing playing",
-    "mechannel": "{{emoji_error}} Error | I am not connected to a Channel",
-    "previoussong": "{{emoji_error}} Error | There is no previous song yet!",
+    "channel": "{{emoji_error}} Error | Tienes que unirte a un canal de voz!",
+    "player": "{{emoji_error}} Error | No hay nada tocando1",
+    "mechannel": "{{emoji_error}} Error | No estoy conectado al canal!",
+    "previoussong": "{{emoji_error}} Error | No hay una canción anterior todavia!",
     "notsamechannel": {
-        "title": "{{emoji_error}} Error | You need to be in my voice channel to use this command!",
-        "desc": "Channel: {{channel}}"
+        "title": "{{emoji_error}} Error | Necesitas estar en mi canal de voz para que puedas utilizar este comando!",
+        "desc": "Canal: {{channel}}"
     },
     "error": {
-        "title": "{{emoji_error}} ERROR | An error occurred",
-        "desc": "```An error occurred, please try again later, or contact the developers```"
+        "title": "{{emoji_error}} ERROR | Un error ha ocurrido",
+        "desc": "```Un error ha ocurrido, por favor intentalo de nuevo más tarde o contacta a los desarrolladores```"
     }
 }
