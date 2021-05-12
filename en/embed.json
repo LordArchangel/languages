@@ -55,7 +55,7 @@
     },
     "bot_perm_need": {
         "title": "{{emoji_error}} Error | I don't have enough Permissions!",
-        "desc": "Please give me just `ADMINISTRATOR`, because I need it to delete Messages, Create a Channel and execute all Admin Commands.\n If you don't want to give me them, then those are the exact Permissions which I need: \n> `{{required_perms}}`"
+        "desc": "Please give me the `ADMINISTRATOR` permission because I need it to delete Messages, Create a Channel and execute all Admin Commands.\n If you don't want to give them to me, then these are the exact Permissions I need so i can work: \n> `{{required_perms}}`"
     },
     "channel": "{{emoji_error}} Error | You need to join a voice channel.",
     "player": "{{emoji_error}} Error | There is nothing playing",
