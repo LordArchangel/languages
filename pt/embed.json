@@ -14,7 +14,7 @@
         "prefix": ":information_source: O prefixo neste servidor é:",
         "total_commands": "<:review:769248654795341825> Total de comandos do bot:",
         "add_bot": {
-            "title": "Adicione-me ao seu servidor",
+            "title": ":information_source: Adicione-me ao seu servidor",
             "desc": "[Clique aqui](https://discord.com/oauth2/authorize?client_id=${client.user.id}&scope=bot&permissions=8)"
         },
         "change_lang": {
@@ -22,11 +22,11 @@
             "desc": "{{prefix}}language"
         },
         "support_server": {
-            "title": "Servidor de support",
+            "title": ":information_source: Servidor de support",
             "desc": "[Clique aqui](https://discord.gg/g3ZYKk5C7A)"
         },
         "help_translate": {
-            "title": "Se quiseres ajudar a me adicionar mais linguas",
+            "title": ":information_source: Se quiseres ajudar a me adicionar mais linguas",
             "desc": "[Clique aqui](https://github.com/TortuguitaBot/languages)"
         }
     },
