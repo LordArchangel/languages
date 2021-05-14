@@ -52,7 +52,7 @@
     "all_users_djs": "no Dj Roles, aka all Users are Djs",
     "togglerequestonly": {
         "title": "{{emoji_error}} Errore | Non ti è permesso eseguire questo Comando qui!",
-        "desct": "Si prega di eseguito in: {{channel}} | Per abilitare l'uso ovunque, è possibile utilizzare il comando: `{{prefix}}togglerequestonly`"
+        "desc": "Si prega di eseguito in: <#{{channel}}> | Per abilitare l'uso ovunque, è possibile utilizzare il comando: `{{prefix}}togglerequestonly`"
     },
     "bot_perm_need": {
         "title": "{{emoji_error}} Errore | Non ho abbastanza autorizzazioni!",
