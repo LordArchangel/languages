@@ -49,6 +49,7 @@
         "title": "{{emoji_error}} Error | ¡No tienes permitido utilizar este comando!",
         "desc": "Necesitas tener uno de estos roles:\n{{roles}}\n\nO ser el solicitante ({{requester}}) de este track(pista) actual!"
     },
+    "all_users_djs": "no Dj Roles, aka all Users are Djs",
     "togglerequestonly": {
         "title": "{{emoji_error}} Error | ¡No tienes permitido utilizar este comando aqui!",
         "desct": "Por favor correlo/utilizalo en: {{channel}} | Para activar en uso de los comandos en donde sea, escribe: `{{prefix}}togglerequestonly`"

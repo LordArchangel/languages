@@ -49,6 +49,7 @@
         "title": "{{emoji_error}} Error | You are not allowed to run this command!",
         "desc": "You need to have one of these Roles:\n{{roles}}\n\nOr be the Requester ({{requester}}) of the current Track!"
     },
+    "all_users_djs": "no Dj Roles, aka all Users are Djs",
     "togglerequestonly": {
         "title": "{{emoji_error}} Error | You are not allowed to run this Command here!",
         "desct": "Please run it in: {{channel}} | To enable the use anywhere, you can use the Command: `{{prefix}}togglerequestonly`"
