@@ -64,7 +64,7 @@
     "previoussong": "{{emoji_error}} Errore | Non c'è ancora una canzone precedente!",
     "notsamechannel": {
         "title": "{{emoji_error}} Errore | Devi essere nel mio canale vocale per usare questo comando!",
-        "desc": "Canale: {{channel}}"
+        "desc": "Canale: <#{{channel}}>"
     },
     "error": {
         "title": "{{emoji_error}} ERRORE | Si è verificato un errore",
