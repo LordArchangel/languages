@@ -49,7 +49,7 @@
         "title": "{{emoji_error}} Erro | Tu não tens permissão para usar este comando!",
         "desc": "Você precisa ter um destes cargos:\n{{roles}}\n\nOu seja o solicitante ({{requester}}) da música atual!"
     },
-    "all_users_djs": "no Dj Roles, aka all Users are Djs",
+    "all_users_djs": "Não ha roles/cargos de Dj, todos os usuarios são Djs",
     "togglerequestonly": {
         "title": "{{emoji_error}} Erro | Tu não tens permissão para executar este comando aqui!",
         "desc": "Por favor, execute-o em: <#{{channel}}> | Para poder usar os comandos de música em qualquer lugar use: `{{prefix}}togglerequestonly`"
