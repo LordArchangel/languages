@@ -49,7 +49,7 @@
         "title": "{{emoji_error}} Errore | Non ti è consentito eseguire questo comando!",
         "desc": "È necessario avere uno di questi ruoli:\n{{roles}}\n\nO di essere il Richiedente ({{requester}}) della track attuale!"
     },
-    "all_users_djs": "no Dj Roles, aka all Users are Djs",
+    "all_users_djs": "non ci sono ruoli dj, tutti gli utenti sono dj",
     "togglerequestonly": {
         "title": "{{emoji_error}} Errore | Non ti è permesso eseguire questo Comando qui!",
         "desc": "Si prega di eseguito in: <#{{channel}}> | Per abilitare l'uso ovunque, è possibile utilizzare il comando: `{{prefix}}togglerequestonly`"
