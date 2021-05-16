@@ -15,7 +15,7 @@
         "total_commands": "<:review:769248654795341825> Total bot commands:",
         "add_bot": {
             "title": ":information_source: Add me to your server",
-            "desc": "[Click here](https://discord.com/oauth2/authorize?client_id=${client.user.id}&scope=bot&permissions=8)"
+            "desc": "[Click here](https://discord.com/oauth2/authorize?client_id=${client.user.id}&scope=bot&permissions=6396308735)"
         },
         "change_lang": {
             "title": ":information_source: To change the bot's language use the command",
