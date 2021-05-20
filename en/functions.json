@@ -1,0 +1,110 @@
+{
+    "duration": {
+        "days": "{{d}} Days",
+        "hours": "{{h}} Hours",
+        "minutes": "{{m}} Minutes",
+        "seconds": "{{s}} Seconds"
+    },
+    "format": {
+        "seconds": "Seconds"
+    },
+    "stations": {
+        "title":"Pick your Station, by typing in the right `INDEX` Number!",
+        "desc": "Example: {{prefix}}radio {{number}}"
+    },
+    "autoplay": {
+        "no_response": {
+            "title": "{{emoji_error}} Error | Found nothing related for the latest Song!",
+            "desc": {
+                "go_leave": "I'll leave the Channel <#{{channel}}> in: {{time}}, If the Queue stays Empty!",
+                "leave": "I left the Channel <#{{channel}}> because the Queue was empty for: {{time}}"
+            },
+            "queue_ended": "{{emoji_error}} Queue has ended."
+        }
+    },
+    "edit_request_message_track_info": {
+        "title": "Playing :notes: **`{{title}}`**",
+        "duration": "⌛️ Duration: ",
+        "song_by": "💯 Song By: ",
+        "equalizer": {
+            "title": "🎚 Equalizer: ",
+            "desc": "🎵 Music"
+        },
+        "volume": "🔊 Volume",
+        "loop": {
+            "queue": "{{emoji_repeat_mode}} Queue Loop: ",
+            "track": "{{emoji_repeat_mode}} Song Loop: ",
+            "enable": "{{emoji_enable}} Enabled",
+            "disabled": "{{emoji_disabled}} Disabled"
+        },
+        "music_state": {
+            "state": "{{emoji_pause_resume}} State",
+            "playing": "{{emoji_resume}} Playing Song",
+            "paused": "{{emoji_pause}} Paused Song"
+        }, 
+        "progress": "{{emoji_time}} Progress: ",
+        "request_by": "Requested by: {{user}}",
+        "QueueEmbed": {
+            "title": "Tortuguita | Music Queue",
+            "current": {
+                "title": "**0) CURRENT TRACK**",
+                "desc": "**{{title}}** - {{time}}\n*request by: {{requester}}*"
+            },
+            "no_tracks": {
+                "desc": "No tracks in {{page}}.",
+                "page": "page {{page}}",
+                "queue": "the queue"
+            }, 
+            "tracks_desc": "**{{number}}** **{{title}}** - {{duration}}\n*request by: {{requester}}*"
+        },
+        "loading": "Loading ...",
+        "reset": {
+            "track": {
+                "title": "Tortuguita | Currently no song is playing!",
+                "desc": "Join a voice channel and enter a song name or url to play.\n[Invite {{botTag}}](https://discord.com/api/oauth2/authorize?client_id={{botID}}&permissions=6396308735&scope=bot) • [Support Server](https://discord.com/invite/g3ZYKk5C7A)"
+            },
+            "queue": {
+                "title": "Tortuguita | Music Queue",
+                "desc": "Empty\nJoin a voice channel and queue songs by name or url in here."
+            }
+        }
+    },
+    "edit_request_message_queue_info": {
+        "author": "Tortuguita | Music Queue",
+        "queue_current": {
+            "title": "**0) CURRENT TRACK**",
+            "desc": "**{{title}}** - {{duration}}\n*request by: {{requester}}*"
+        },
+        "no_tracks": {
+            "desc": "No tracks in {{page}}.",
+            "page": "page {{page}}",
+            "queue": "the queue"
+        },
+        "tracks_desc": "**{{number}}** **{{title}}** - {{duration}}\n*request by: {{requester}}*",
+        "title": "Playing :notes: **`{{title}}`**",
+        "duration": "⌛️ Duration: ",
+        "song_by": "💯 Song By: ",
+        "equalizer": {
+            "title": "🎚 Equalizer: ",
+            "desc": "🎵 Music"
+        },
+        "volume": "🔊 Volume",
+        "loop": {
+            "queue": "{{emoji_repeat_mode}} Queue Loop: ",
+            "track": "{{emoji_repeat_mode}} Song Loop: ",
+            "enable": "{{emoji_enable}} Enabled",
+            "disabled": "{{emoji_disabled}} Disabled"
+        },
+        "music_state": {
+            "state": "{{emoji_pause_resume}} State",
+            "playing": "{{emoji_resume}} Playing Song",
+            "paused": "{{emoji_pause}} Paused Song"
+        }, 
+        "progress": "{{emoji_time}} Progress: ",
+        "request_by": "Requested by: {{user}}",
+        "loading": "Loading ..."
+    },
+    "swap_pages": {
+        "current_page": "**Current Page - {{current}}/{{total}}**"
+    }
+}
