@@ -1,110 +1,110 @@
 {
     "duration": {
-        "days": "{{d}} Days",
-        "hours": "{{h}} Hours",
-        "minutes": "{{m}} Minutes",
-        "seconds": "{{s}} Seconds"
+        "days": "{{d}} Dias",
+        "hours": "{{h}} Horas",
+        "minutes": "{{m}} Minutos",
+        "seconds": "{{s}} Segundos"
     },
     "format": {
-        "seconds": "Seconds"
+        "seconds": "Segundos"
     },
     "stations": {
-        "title":"Pick your Station, by typing in the right `INDEX` Number!",
-        "desc": "Example: {{prefix}}radio {{number}}"
+        "title":"Escolha sua Estação, digitando o número `INDEX` correto!",
+        "desc": "Exemplo: {{prefix}}radio {{number}}"
     },
     "autoplay": {
         "no_response": {
-            "title": "{{emoji_error}} Error | Found nothing related for the latest Song!",
+            "title": "{{emoji_error}} Erro | Não encontrei nada relacionado com a última música!",
             "desc": {
-                "go_leave": "I'll leave the Channel <#{{channel}}> in: {{time}}, If the Queue stays Empty!",
-                "leave": "I left the Channel <#{{channel}}> because the Queue was empty for: {{time}}"
+                "go_leave": "Eu vou sair do Canal <#{{channel}}> em: {{time}}, se a fila permanecer vazia!",
+                "leave": "Eu sai do Canal <#{{channel}}> porque a fila estava vazia por: {{time}}"
             },
-            "queue_ended": "{{emoji_error}} Queue has ended."
+            "queue_ended": "{{emoji_error}} A fila terminou."
         }
     },
     "edit_request_message_track_info": {
-        "title": "Playing :notes: **`{{title}}`**",
-        "duration": "⌛️ Duration: ",
-        "song_by": "💯 Song By: ",
+        "title": "Tocando :notes: **`{{title}}`**",
+        "duration": "⌛️ Duração: ",
+        "song_by": "💯 Música de: ",
         "equalizer": {
-            "title": "🎚 Equalizer: ",
-            "desc": "🎵 Music"
+            "title": "🎚 Equalizador: ",
+            "desc": "🎵 Música"
         },
         "volume": "🔊 Volume",
         "loop": {
-            "queue": "{{emoji_repeat_mode}} Queue Loop: ",
-            "track": "{{emoji_repeat_mode}} Song Loop: ",
-            "enable": "{{emoji_enable}} Enabled",
-            "disabled": "{{emoji_disabled}} Disabled"
+            "queue": "{{emoji_repeat_mode}} Loop de fila: ",
+            "track": "{{emoji_repeat_mode}} Loop de música: ",
+            "enable": "{{emoji_enable}} Habilitado",
+            "disabled": "{{emoji_disabled}} Desabilitado"
         },
         "music_state": {
-            "state": "{{emoji_pause_resume}} State",
-            "playing": "{{emoji_resume}} Playing Song",
-            "paused": "{{emoji_pause}} Paused Song"
+            "state": "{{emoji_pause_resume}} Estado",
+            "playing": "{{emoji_resume}} Tocando música",
+            "paused": "{{emoji_pause}} Música pausada"
         }, 
-        "progress": "{{emoji_time}} Progress: ",
-        "request_by": "Requested by: {{user}}",
+        "progress": "{{emoji_time}} Progresso: ",
+        "request_by": "Solicitado por: {{user}}",
         "QueueEmbed": {
-            "title": "Tortuguita | Music Queue",
+            "title": "Tortuguita | Fila de Música",
             "current": {
-                "title": "**0) CURRENT TRACK**",
-                "desc": "**{{title}}** - {{time}}\n*request by: {{requester}}*"
+                "title": "**0) FAIXA ATUAL**",
+                "desc": "**{{title}}** - {{time}}\n*solicitado por: {{requester}}*"
             },
             "no_tracks": {
-                "desc": "No tracks in {{page}}.",
-                "page": "page {{page}}",
-                "queue": "the queue"
+                "desc": "Sem faixas em {{page}}.",
+                "page": "página {{page}}",
+                "queue": "A fila"
             }, 
-            "tracks_desc": "**{{number}}** **{{title}}** - {{duration}}\n*request by: {{requester}}*"
+            "tracks_desc": "**{{number}}** **{{title}}** - {{duration}}\n*solicitado por: {{requester}}*"
         },
-        "loading": "Loading ...",
+        "loading": "Carregando...",
         "reset": {
             "track": {
-                "title": "Tortuguita | Currently no song is playing!",
-                "desc": "Join a voice channel and enter a song name or url to play.\n[Invite {{botTag}}](https://discord.com/api/oauth2/authorize?client_id={{botID}}&permissions=6396308735&scope=bot) • [Support Server](https://discord.com/invite/g3ZYKk5C7A)"
+                "title": "Tortuguita | Atualmente nenhuma música está tocando!",
+                "desc": "Entre em um canal de voz e digite o nome de uma música ou url para tocar.\n[Convite {{botTag}}](https://discord.com/api/oauth2/authorize?client_id={{botID}}&permissions=6396308735&scope=bot) • [Servidor de Suporte](https://discord.com/invite/g3ZYKk5C7A)"
             },
             "queue": {
-                "title": "Tortuguita | Music Queue",
-                "desc": "Empty\nJoin a voice channel and queue songs by name or url in here."
+                "title": "Tortuguita | Fila de Música",
+                "desc": "Empty\nJunte-se a um canal de voz e faça fila por nome ou url aqui."
             }
         }
     },
     "edit_request_message_queue_info": {
-        "author": "Tortuguita | Music Queue",
+        "author": "Tortuguita | Fila de Música",
         "queue_current": {
-            "title": "**0) CURRENT TRACK**",
-            "desc": "**{{title}}** - {{duration}}\n*request by: {{requester}}*"
+            "title": "**0) FAIXA ATUAL**",
+            "desc": "**{{title}}** - {{duration}}\n*solicitado por: {{requester}}*"
         },
         "no_tracks": {
-            "desc": "No tracks in {{page}}.",
-            "page": "page {{page}}",
-            "queue": "the queue"
+            "desc": "Nenhuma faixa em {{page}}.",
+            "page": "página {{page}}",
+            "queue": "A fila"
         },
-        "tracks_desc": "**{{number}}** **{{title}}** - {{duration}}\n*request by: {{requester}}*",
-        "title": "Playing :notes: **`{{title}}`**",
-        "duration": "⌛️ Duration: ",
-        "song_by": "💯 Song By: ",
+        "tracks_desc": "**{{number}}** **{{title}}** - {{duration}}\n*solicitado por: {{requester}}*",
+        "title": "Tocando :notes: **`{{title}}`**",
+        "duration": "⌛️ Duração: ",
+        "song_by": "💯 Música por: ",
         "equalizer": {
-            "title": "🎚 Equalizer: ",
-            "desc": "🎵 Music"
+            "title": "🎚 Equalizador: ",
+            "desc": "🎵 Música"
         },
         "volume": "🔊 Volume",
         "loop": {
-            "queue": "{{emoji_repeat_mode}} Queue Loop: ",
-            "track": "{{emoji_repeat_mode}} Song Loop: ",
-            "enable": "{{emoji_enable}} Enabled",
-            "disabled": "{{emoji_disabled}} Disabled"
+            "queue": "{{emoji_repeat_mode}} Loop de Fila: ",
+            "track": "{{emoji_repeat_mode}} Loop de Música: ",
+            "enable": "{{emoji_enable}} Habilitado",
+            "disabled": "{{emoji_disabled}} Desabilitado"
         },
         "music_state": {
-            "state": "{{emoji_pause_resume}} State",
-            "playing": "{{emoji_resume}} Playing Song",
-            "paused": "{{emoji_pause}} Paused Song"
+            "state": "{{emoji_pause_resume}} Estado",
+            "playing": "{{emoji_resume}} Tocando Música",
+            "paused": "{{emoji_pause}} Música Pausada"
         }, 
-        "progress": "{{emoji_time}} Progress: ",
-        "request_by": "Requested by: {{user}}",
-        "loading": "Loading ..."
+        "progress": "{{emoji_time}} Progresso: ",
+        "request_by": "Solicitado por: {{user}}",
+        "loading": "Carregando..."
     },
     "swap_pages": {
-        "current_page": "**Current Page - {{current}}/{{total}}**"
+        "current_page": "**Página Atual - {{current}}/{{total}}**"
     }
 }
